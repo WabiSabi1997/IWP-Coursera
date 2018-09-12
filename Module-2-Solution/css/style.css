@@ -44,14 +44,14 @@ section>h2{
 }
 
 #chHeader {
-  background-color: rgb(255,153,153);
+  background-color: #ff9999;
 }
 #bfHeader {
-  background-color: rgb(200,40,40);
+  background-color: #c82828;
   color: white;
 }
 #shHeader{
-  background-color: rgb(250,230,170);
+  background-color: #fae6aa;
 }
 
 /* For large devices */
