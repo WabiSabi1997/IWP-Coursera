@@ -2,23 +2,22 @@ body{
   font-family: "Comic Sans MS", sans-serif;
 }
 nav{
-    background-color: #66b3ff;
+    background-color: rgb(100,180,255);
 }
 #main-nav-bar{
-  background-color: #66b3ff;
+  background-color: rgb(100,180,255);
   border-style: none;
-  border-radius: 0;
+  border-radius: 0.25;
   margin-bottom: 0;
 }
 
 #collapsed-menu{
-/*  background-color: #b3d9ff;*/
   border-top: 0px;
   border-bottom: 0px;
 }
 
 #menu-list{
-    background-color: #b3d9ff;
+    background-color: rgb(100,180,255);
   margin-top: 0;
   margin-bottom: 0;
   padding-bottom: 5px;
@@ -58,7 +57,7 @@ section{
   padding: 20px;
 }
 button{
-  background-color: #a6a6a6;
+  background-color: rgb(166,166,166);
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -68,6 +67,6 @@ button{
 
 #section-text{
   height: 2000px;
-  background-color: #b3d9ff;
+  background-color: rgb(100,180,255);
   margin: 0 auto 15px;
 }
